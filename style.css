@@ -1,8 +1,19 @@
 body {
-	background-color: #f1dca7;
+	background-color: #f9dcc4;
 }
 h1, p {
 	text-align: center;
 }
+p {
+	font-size: 24px;
+}
+h1 {
+	font-size: 40px;
+}
 
-
+h2 {
+	font-size: 27px;
+}
+ul {
+	font-size: 22px;
+}
